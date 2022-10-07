@@ -1,3 +1,3 @@
-export function DefaultTeamplate() {
+export function DefaultTemplate() {
   return <div></div>;
 }
