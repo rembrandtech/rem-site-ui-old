@@ -1,3 +1,8 @@
+import { Container } from "./styles";
 export function Testimonials() {
-  return <div></div>;
+  return (
+    <Container>
+      <h1>Testimonials</h1>
+    </Container>
+  );
 }

@@ -1,1 +1,1 @@
-export const PortfolioService = () => {};
+export const portfolioService = () => {};

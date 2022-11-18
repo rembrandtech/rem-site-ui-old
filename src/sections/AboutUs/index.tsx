@@ -1,3 +1,9 @@
+import { Container } from "./styles";
+
 export function AboutUs() {
-  return <div></div>;
+  return (
+    <Container>
+      <h1>About Us</h1>
+    </Container>
+  );
 }

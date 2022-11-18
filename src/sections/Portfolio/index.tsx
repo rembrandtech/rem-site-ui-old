@@ -1,3 +1,9 @@
+import { Container } from "./styles";
+
 export function Portfolio() {
-  return <div></div>;
+  return (
+    <Container>
+      <h1>Portfolio</h1>
+    </Container>
+  );
 }
