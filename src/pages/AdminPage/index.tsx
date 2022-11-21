@@ -1,3 +1,9 @@
+import { Container } from "./styles";
+
 export function AdminPage() {
-  return <div></div>;
+  return (
+    <Container>
+      <h1>Admin Page</h1>
+    </Container>
+  );
 }

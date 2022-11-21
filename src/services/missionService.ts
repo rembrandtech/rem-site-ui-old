@@ -1,1 +1,1 @@
-export const MissionService = () => {};
+export const missionService = () => {};

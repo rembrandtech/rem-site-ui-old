@@ -1,1 +1,1 @@
-export const AboutUsService = () => {};
+export const aboutUsService = () => {};

@@ -1,1 +1,1 @@
-export const TestimonialsService = () => {};
+export const testimonialsService = () => {};

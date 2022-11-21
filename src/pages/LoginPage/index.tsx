@@ -1,3 +1,8 @@
+import { Container } from "./styles";
 export function LoginPage() {
-  return <div></div>;
+  return (
+    <Container>
+      <h1>Login</h1>
+    </Container>
+  );
 }

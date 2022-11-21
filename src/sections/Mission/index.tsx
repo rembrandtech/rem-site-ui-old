@@ -1,3 +1,9 @@
+import { Container } from "./styles";
+
 export function Mission() {
-  return <div></div>;
+  return (
+    <Container>
+      <h1>Mission</h1>
+    </Container>
+  );
 }
